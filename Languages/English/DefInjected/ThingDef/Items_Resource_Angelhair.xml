@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wool -->
+
+  <WoolAngelhair.label>angel wool</WoolAngelhair.label>
+  <WoolAngelhair.description>Mysterious soft wool taken from an equally mysterious creature.</WoolAngelhair.description>
+
+  <EggAngelhairUnfertilized.label>angelhair egg (unfert.)</EggAngelhairUnfertilized.label>
+  <EggAngelhairUnfertilized.description>An unfertilized angelhair egg. It can be eaten raw, but it's much, much better cooked.</EggAngelhairUnfertilized.description>
+
+  <EggAngelhairFertilized.label>angelhair egg (fert.)</EggAngelhairFertilized.label>
+  <EggAngelhairFertilized.description>A fertilized angelhair egg. If all goes well, it should hatch into a baby angelhair. It can be eaten raw, but it's much better cooked.</EggAngelhairFertilized.description>
+
+</LanguageData>

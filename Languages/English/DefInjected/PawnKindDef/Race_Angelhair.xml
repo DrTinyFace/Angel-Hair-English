@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Angelhair.label>angelhair</Angelhair.label>
+  <Angelhair.labelMale>angelhair</Angelhair.labelMale>
+  <Angelhair.labelFemale>angelhair</Angelhair.labelFemale>
+  <Angelhair.labelPlural>angelhairs</Angelhair.labelPlural>
+  <Angelhair.lifeStages.0.label>angelhair</Angelhair.lifeStages.0.label>
+  <Angelhair.lifeStages.0.labelPlural>angelhairs</Angelhair.lifeStages.0.labelPlural>
+  <Angelhair.lifeStages.1.label>angelhair</Angelhair.lifeStages.1.label>
+  <Angelhair.lifeStages.1.labelPlural>angelhairs</Angelhair.lifeStages.1.labelPlural>
+  <Angelhair.lifeStages.2.label>angelhair</Angelhair.lifeStages.2.label>
+  <Angelhair.lifeStages.2.labelPlural>angelhairs</Angelhair.lifeStages.2.labelPlural>
+
+</LanguageData>
